@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiduMap.Binding.ARM", "BaiduMap.Binding.ARM\BaiduMap.Binding.ARM.csproj", "{DC41BCC8-8A75-45D8-B21B-FA37870DFC19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiduMap.Android.Test", "BaiduMap.Android.Test\BaiduMap.Android.Test.csproj", "{F69EA26D-C01C-42E2-8C73-7503173D6ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC41BCC8-8A75-45D8-B21B-FA37870DFC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC41BCC8-8A75-45D8-B21B-FA37870DFC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC41BCC8-8A75-45D8-B21B-FA37870DFC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC41BCC8-8A75-45D8-B21B-FA37870DFC19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69EA26D-C01C-42E2-8C73-7503173D6ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F69EA26D-C01C-42E2-8C73-7503173D6ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F69EA26D-C01C-42E2-8C73-7503173D6ACB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F69EA26D-C01C-42E2-8C73-7503173D6ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F69EA26D-C01C-42E2-8C73-7503173D6ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F69EA26D-C01C-42E2-8C73-7503173D6ACB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
